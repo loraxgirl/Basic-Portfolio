@@ -97,6 +97,7 @@ a:link {
     position: fixed;
     bottom: 0;
     border-top: 8px solid #4aaaa5;
+    vertical-align: bottom;
   }
     
   
